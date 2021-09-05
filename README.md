@@ -1,1 +1,2 @@
-# Google-map-api-implimentation-with-typescript
+Typescript-gmap-api-implimentation
+
