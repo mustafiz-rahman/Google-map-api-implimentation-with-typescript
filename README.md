@@ -10,6 +10,8 @@
 <b>Caution:</b>
 >You may face difficulties while getting the API key from google it may ask you for billing information.
 
+> NOTE:Please add your own api key in index.html
+
 
 
 
